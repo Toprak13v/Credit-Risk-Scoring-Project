@@ -23,7 +23,8 @@ The interactive dashboard provides a 360-degree view of the portfolio's risk pro
 - **Trend Analysis:** Identifying risk correlations across different age groups and financial metrics.
 
 > **Visual Insight:**
-> <img width="1450" height="805" alt="PowerBI_Dashboard" src="https://github.com/user-attachments/assets/66725253-161f-4bda-8c18-cc03c94062ec" />
+<img width="1436" height="806" alt="update_POWERBI" src="https://github.com/user-attachments/assets/90dd06fe-05f5-47fd-b595-22ec4f12fe59" />
+
 
 
 ## 🧬 Key Insights from the Model
